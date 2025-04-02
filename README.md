@@ -13,7 +13,7 @@ O objetivo é buscar informações sobre operadoras de planos de saúde a partir
 ## Configuração do Ambiente
 ### 1. Clonar o repositório
 ```sh
- git clone https://github.com/N1nji/seu-repositorio.git
+ git clone https://github.com/N1nji/API-Vue.js.git
  cd seu-repositorio
 ```
 
