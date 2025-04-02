@@ -14,7 +14,7 @@ O objetivo é buscar informações sobre operadoras de planos de saúde a partir
 ### 1. Clonar o repositório
 ```sh
  git clone https://github.com/N1nji/API-Vue.js.git
- cd seu-repositorio
+ cd API-Vue.js
 ```
 
 ### 2. Configurar o ambiente Python
